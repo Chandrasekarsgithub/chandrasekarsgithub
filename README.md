@@ -1,11 +1,11 @@
 <h1 align="center">I'm chandrasekar</h1>
 <h3 align="center">PYTHON FULL STACK DEVELOPER</h3>
 
-- webdevelopment project: [Netflix](http://127.0.0.1:5506/css/netflix1.html)
+📧 Gmail : **chandrusundar1010@gmail.com**
 
-- Gmail : **chandrusundar1010@gmail.com**
+📁 Resume : [https://drive.google.com/file/d/1TYbeqCILmZZ-1sGUx0vtcZyJ-zEFy2kr/view?usp=share_link](https://drive.google.com/file/d/1TYbeqCILmZZ-1sGUx0vtcZyJ-zEFy2kr/view?usp=share_link)
 
-- Resume : [https://drive.google.com/file/d/1TYbeqCILmZZ-1sGUx0vtcZyJ-zEFy2kr/view?usp=share_link](https://drive.google.com/file/d/1TYbeqCILmZZ-1sGUx0vtcZyJ-zEFy2kr/view?usp=share_link)
+𝕎𝔻 webdevelopment project: [Netflix](http://127.0.0.1:5506/css/netflix1.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
