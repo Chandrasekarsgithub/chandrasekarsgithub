@@ -1,4 +1,3 @@
-![logo](Banner.jpg)
 <h1 align="center">I'm chandrasekar</h1>
 <h3 align="center">PYTHON FULL STACK DEVELOPER</h3>
 
